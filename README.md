@@ -1,4 +1,4 @@
-# codepath project, Group Name: The Phantom Troupe 
+# Group Name: The Phantom Troupe 
 COSC 338 Group Project
 
 Scrum is a type of software development that helps teams organize, plan, and review work for upcoming sprints. This proposal comes from an experience of being in unorganized scrum meetings/business environments where the team was not on the same page. The problem this project will solve is the problem of group members going into different directions in projects.
@@ -16,3 +16,32 @@ Navigation Flow: The user will start on the login, once logged in they will be a
 	
 
 
+1. User Stories (Required and Optional)
+Required Must-have Stories
+
+* User logs in to access previous tasks
+* User can scroll and see past tasks
+* Percentage bar showing how much left to do
+* Help button on task
+* Menu (Dash, Notification, Mark complete, etc.)
+Optional Nice-to-have Stories
+
+* Notes Section 
+* Calendar
+* Project Recap
+* Take picture of a board and the app writes the task down automatically 
+
+| Property | Type | Description|
+--------------------------------
+| task	| String 	| The tasks to be completed|
+----------------------------------------------------
+| author |	| Pointer to User 	| The task author |
+-----------------------------------------------------------
+| createdAt |	|DateTime	|Tells when someone posted a task|
+-------------------------------------------------------------------
+|completedAt|	DateTime	|Shows when task was completed |
+-------------------------------------------------------------------
+|help|	Boolean|	User can indicate if they need help on a task or not |
+------------------------------------------------------------------------------
+|completionPercentage|	float|	Users can show the completion percentage of their task |
+		
