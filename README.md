@@ -24,24 +24,24 @@ Required Must-have Stories
 * Percentage bar showing how much left to do
 * Help button on task
 * Menu (Dash, Notification, Mark complete, etc.)
-Optional Nice-to-have Stories
+2.Optional Nice-to-have Stories
 
 * Notes Section 
 * Calendar
 * Project Recap
 * Take picture of a board and the app writes the task down automatically 
 
-| Property | Type | Description|
-|--------------------------------|
-| task	| String 	| The tasks to be completed|
-|----------------------------------------------------|
-| author |	| Pointer to User 	| The task author |
-|-----------------------------------------------------------|
-| createdAt |	|DateTime	|Tells when someone posted a task|
-|-------------------------------------------------------------------|
-|completedAt|	DateTime	|Shows when task was completed |
-|-------------------------------------------------------------------|
-|help|	Boolean|	User can indicate if they need help on a task or not |
-|------------------------------------------------------------------------------|
-|completionPercentage|	float|	Users can show the completion percentage of their task |
+| Property | Type | Description |
+| --- | --- | --- |
+| task | String | The tasks to be completed |
+| --- | --- | --- |
+| author | Pointer to User | The task author |
+| --- | --- | --- |
+| createdAt | DateTime | Tells when someone posted a task |
+| --- | --- | --- |
+| completedAt | DateTime | Shows when task was completed |
+| --- | --- | --- |
+| help | Boolean| User can indicate if they need help on a task or not |
+| --- | --- | --- |
+| completionPercentage | float| Users can show the completion percentage of their task |
 		
