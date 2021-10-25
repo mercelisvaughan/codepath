@@ -24,7 +24,7 @@ Required Must-have Stories
 * Percentage bar showing how much left to do
 * Help button on task
 * Menu (Dash, Notification, Mark complete, etc.)
-2.Optional Nice-to-have Stories
+2. Optional Nice-to-have Stories
 
 * Notes Section 
 * Calendar
