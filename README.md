@@ -31,6 +31,8 @@ Required Must-have Stories
 * Project Recap
 * Take picture of a board and the app writes the task down automatically 
 
+MODEL | POST
+
 | Property | Type | Description |
 | --- | --- | --- |
 | task | String | The tasks to be completed |
