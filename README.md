@@ -47,3 +47,13 @@ MODEL | POST
 | --- | --- | --- |
 | completionPercentage | float| Users can show the completion percentage of their task |
 		
+NETWORKING
+
+List of network requests
+* Home Feed Screen
+	* READ/GET: Query all tasks from users
+	* Create/POST: User will be able to create task
+	* Delete: User will be able to delete post/s
+
+* Create Task Screen
+	* Create: New task object
